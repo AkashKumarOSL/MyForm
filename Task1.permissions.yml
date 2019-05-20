@@ -1,0 +1,6 @@
+view Task1:
+  title: 'View Task1'
+
+administer Task1:
+  title: 'form'
+  restrict access: true
